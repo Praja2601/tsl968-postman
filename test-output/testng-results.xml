@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-03T18:22:46 GMT-07:00" name="Default suite" finished-at="2021-11-03T18:22:46 GMT-07:00" duration-ms="89">
+    <groups>
+    </groups>
+    <test started-at="2021-11-03T18:22:46 GMT-07:00" name="Default test" finished-at="2021-11-03T18:22:46 GMT-07:00" duration-ms="89">
+      <class name="com.maven.day6.CSVReaderExample">
+        <test-method signature="f()[pri:0, instance:com.maven.day6.CSVReaderExample@3d74bf60]" started-at="2021-11-03T18:22:46 GMT-07:00" name="f" finished-at="2021-11-03T18:22:46 GMT-07:00" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.maven.day6.CSVReaderExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
